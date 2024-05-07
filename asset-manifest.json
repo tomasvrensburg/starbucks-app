@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/starbucks-app/static/css/main.07a08d45.css",
+    "main.js": "/starbucks-app/static/js/main.9babe85d.js",
+    "static/js/453.59dae797.chunk.js": "/starbucks-app/static/js/453.59dae797.chunk.js",
+    "static/media/Starbucks_Corporation_Logo_2011.svg.png": "/starbucks-app/static/media/Starbucks_Corporation_Logo_2011.svg.28d39133b7f5aaa3581e.png",
+    "static/media/leftImage.png": "/starbucks-app/static/media/leftImage.c5e4e2293635e014ab6b.png",
+    "static/media/topImage.png": "/starbucks-app/static/media/topImage.4eeeb18bf9badf17d19b.png",
+    "static/media/sideDishes.png": "/starbucks-app/static/media/sideDishes.ff84e609660c8553a226.png",
+    "static/media/storeFront.jpeg": "/starbucks-app/static/media/storeFront.e8c29f4bed9a7ea367ba.jpeg",
+    "static/media/storiesImage.jpeg": "/starbucks-app/static/media/storiesImage.c937eee690c86c6b0432.jpeg",
+    "index.html": "/starbucks-app/index.html",
+    "main.07a08d45.css.map": "/starbucks-app/static/css/main.07a08d45.css.map",
+    "main.9babe85d.js.map": "/starbucks-app/static/js/main.9babe85d.js.map",
+    "453.59dae797.chunk.js.map": "/starbucks-app/static/js/453.59dae797.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.07a08d45.css",
+    "static/js/main.9babe85d.js"
+  ]
+}
